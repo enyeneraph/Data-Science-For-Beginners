@@ -44,7 +44,7 @@ Source Type: Primary
 
 Structure Type: Structured
 
-Value Type: Qualitative
+Value Type: Quantitative
 
 Source Type: Secondary
 
